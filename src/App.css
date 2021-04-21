@@ -102,4 +102,8 @@ body{
     .container .reviews p{
         line-height: 25px;
     }
+    
+    .container .reviews{
+        padding: 30px 20px;
+    }
 }
