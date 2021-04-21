@@ -38,7 +38,7 @@ function Review(){
             random = index + 1
         }
         console.log(random)
-        setIndex(random)
+        setIndex(checkNumber(random))
     }
     return(
         <div className="reviews">
