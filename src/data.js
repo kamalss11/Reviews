@@ -31,14 +31,14 @@ const reviews = [
         name: 'Nairobi',
         job: 'Secretary',
         image: Nairobi,
-        text: 'Nairobi is a fictional character in the Netflix series Money Heist, portrayed by Alba Flores. She serves as the quality manager of the group, in charge of printing money in the Royal Mint of Spain in parts 1 and 2 and overseeing the melting of gold in the Bank of Spain in parts 3 and 4.'
+        text: 'Nairobi is a fictional character in the Netflix series Money Heist, portrayed by Alba Flores. She in charge of printing money in parts 1 and 2 and overseeing the melting of gold in parts 3 and 4.'
     },
     {
         id: 5,
         name: 'Arturo',
         job: 'Employee',
         image: Arturo,
-        text: 'Arturo Román is a fictional character in the Netflix series Money Heist, portrayed by Enrique Arce. He is a hostage in parts 1 and 2, having been the Director of the Royal Mint of Spain, before spinning his experience into a massively successful public speaking career.'
+        text: 'Arturo Román is a fictional character in the Netflix series Money Heist, portrayed by Enrique Arce. He is a hostage, having been the Director of the Royal Mint of Spain, and also a massively successful public speaking career.'
     }
 ]
 
