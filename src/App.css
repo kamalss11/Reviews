@@ -100,6 +100,6 @@ body{
 
 @media(max-width: 500px){
     .container .reviews p{
-        line-height: 20px;
+        line-height: 25px;
     }
 }
